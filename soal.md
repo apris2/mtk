@@ -115,9 +115,7 @@
 4. Sebuah kain sepanjang 12 meter dipotong menjadi 4 bagian sama panjang. Berapa panjang setiap bagian?
 5. Jika sebuah kolam memiliki panjang 10 m dan lebar 5 m, berapa luas kolam tersebut?
 6. Berapa menit dalam 3 jam?
-7. Sebuah tangki berisi 15 liter air. Jika dikel
-
-uarkan 5 liter, berapa liter air yang tersisa?
+7. Sebuah tangki berisi 15 liter air. Jika dikeluarkan 5 liter, berapa liter air yang tersisa?
 8. Berapa detik dalam 5 menit?
 9. Ibu membeli 2,5 kg gula. Berapa gram berat gula tersebut?
 10. Berapa banyak liter dalam 7500 ml?
